@@ -1,7 +1,5 @@
 # 🌍 Global Migration Patterns Visualization
 
-![Dashboard Globe](screenshots/dashboard_globe.png)
-
 ## Overview
 
 **Global Migration Patterns** is an interactive data visualization dashboard built with Python and Streamlit.  
@@ -17,13 +15,13 @@ It explores international migration using a 3D globe, choropleth maps, and Sanke
 ## 🚀 Demo Screenshots
 
 ### 3D Globe Migration Flows
-![Globe Screenshot](screenshots/dashboard_globe.png)
+![Globe Screenshot](static/screenshots/3Dglobe.png)
 
 ### Choropleth Map
-![Map Screenshot](screenshots/dashboard_map.png)
+![Map Screenshot](static/screenshots/choroplethmap.png)
 
 ### Sankey Diagram
-![Sankey Screenshot](screenshots/dashboard_sankey.png)
+![Sankey Screenshot](static/screenshots/sankeydiagram.png)
 
 ---
 
